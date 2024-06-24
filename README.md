@@ -1,2 +1,2 @@
-# Card_Drawing_Simulation_System
+# Descriptions
 Just a simulation program.
